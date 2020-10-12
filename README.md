@@ -1,10 +1,11 @@
-# Front-End Course :mortar_board: from Kottans :octocat:
+# Front-End Course :mortar_board: from Kottans
 
-This repository displays the progress of the frontend course from the **"Kottans"** development community.
+This repository displays my progress in taking [frontend course](https://github.com/kottans/frontend) from :octocat: [**"Kottans"**](https://kottans.org) development community.
 
 - [x] [Git and GitHub Intro](#git_intro)
 - [x] [Linux CLI, and HTTP](#linux_cli_http)
-- [ ] [Git Collaboration](#git_collaboration)
+- [x] [Git Collaboration](#git_collaboration)
+- [ ] [Intro to HTML and CSS](#html_css_intro)
 
 ***
 
@@ -25,5 +26,12 @@ __Linux Survival__ - definitely pumped up my knowledge on the command line (ls, 
 **HTTP articles** - extended my knowledge (200, 400 & POST, GET) around status codes as well as verbs. I also discovered more about https and ssl certificates. But, there is no doubt, that I should extra study in order to understand HTTP caching and authentication.  
 
 ## <a name="git_collaboration">Git Collaboration</a>
+
+![git collaboration](task_git_collaboration/github_collaboration.jpg)
+
+The **"GitHub & Collaboration"** course has certainly improved my understanding of working with forked repositories and , this knowledge will surely be useful in teamwork on the project! I also became more familiar with the CONTRIBUTING.md files.
+***
+
+## <a name="html_css_intro">Intro to HTML and CSS</a>
 
 Is underway...
