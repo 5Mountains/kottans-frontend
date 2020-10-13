@@ -1,11 +1,12 @@
 # Front-End Course :mortar_board: from Kottans
 
-This repository displays my progress in taking [frontend course](https://github.com/kottans/frontend) from :octocat: [**"Kottans"**](https://kottans.org) development community.
+### This repository displays my progress in taking self-study part of [frontend course](https://github.com/kottans/frontend) from :octocat: [**"Kottans"**](https://kottans.org) development community.
 
 - [x] [Git and GitHub Intro](#git_intro)
 - [x] [Linux CLI, and HTTP](#linux_cli_http)
 - [x] [Git Collaboration](#git_collaboration)
-- [ ] [Intro to HTML and CSS](#html_css_intro)
+- [x] [Intro to HTML and CSS](#html_css_intro)
+- [ ] [Responsive Web Design](#responsive_web_design)
 
 ***
 
@@ -33,5 +34,19 @@ The **"GitHub & Collaboration"** course has certainly improved my understanding 
 ***
 
 ## <a name="html_css_intro">Intro to HTML and CSS</a>
+
+![intro to html and css](task_html_css_intro/intro_html_and_css.jpg)
+
+The **"Intro to HTML and CSS"** course from "udacity" was too easy-peasy task, which I handled very rapidly.
+
+![intro to html and css](task_html_css_intro/html.gif)
+
+The **"Learn HTML"** course from "codecademy" was another really easy-breezy task that I did very quickly, despite the fact that I bought "pro" account which allowed me to cover every topic.
+
+![intro to html and css](task_html_css_intro/css.gif)
+
+The **"Learn CSS"** course from "codecademy" was one more pretty lightweight task that I did quite quickly. Frankly speaking, there was a theme that made me refresh my knowledge and remember everything I had learned before, it was - Grid. So I should do more research and practice on this topic.
+
+## <a name="responsive_web_design">Responsive Web Design</a>
 
 Is underway...
