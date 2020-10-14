@@ -2,14 +2,17 @@
 
 This repository displays my progress in taking self-study part of [frontend course](https://github.com/kottans/frontend) from :octocat: [**"Kottans"**](https://kottans.org) development community.
 
-###### tasks that have been completed:
+##### tasks that have been completed:
 - [x] [Git and GitHub Intro](#git_intro)
 - [x] [Linux CLI, and HTTP](#linux_cli_http)
 - [x] [Git Collaboration](#git_collaboration)
 - [x] [Intro to HTML and CSS](#html_css_intro)
 
-###### tasks that are currently being performed:
+##### tasks that are currently being performed:
 - [ ] [Responsive Web Design](#responsive_web_design)
+
+##### some additional projects that I run during the course:
+- [x] [Nickname creator](https://github.com/5Mountains/nickname-creator)
 
 ***
 
