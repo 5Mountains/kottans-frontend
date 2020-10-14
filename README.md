@@ -3,16 +3,17 @@
 This repository displays my progress in taking self-study part of [frontend course](https://github.com/kottans/frontend) from :octocat: [**"Kottans"**](https://kottans.org) development community.
 
 ##### tasks that have been completed:
-- [x] [Git and GitHub Intro](#git_intro)
-- [x] [Linux CLI, and HTTP](#linux_cli_http)
-- [x] [Git Collaboration](#git_collaboration)
-- [x] [Intro to HTML and CSS](#html_css_intro)
+- [x] [Git and GitHub Intro](#git_intro) :white_check_mark:
+- [x] [Linux CLI, and HTTP](#linux_cli_http) :white_check_mark:
+- [x] [Git Collaboration](#git_collaboration) :white_check_mark:
+- [x] [Intro to HTML and CSS](#html_css_intro) :white_check_mark:
+- [x] [Responsive Web Design](#responsive_web_design) :white_check_mark:
 
 ##### tasks that are currently being performed:
-- [ ] [Responsive Web Design](#responsive_web_design)
+- [ ] [HTML & CSS Practice](#html_css_practice)
 
 ##### some additional projects that I run during the course:
-- [x] [Nickname creator](https://github.com/5Mountains/nickname-creator)
+- [x] [Nickname creator](https://github.com/5Mountains/nickname-creator) :white_check_mark:
 
 ***
 
@@ -28,7 +29,7 @@ During the course **"Version Control with Git"** and **"try.github.io"** I learn
 
 ![linux survival](task_linux_cli/linux_survival.gif)
 
-__Linux Survival__ - definitely pumped up my knowledge on the command line (ls, cs, mkdir, kill, ps, aux) to the next level (mv, pwd, cp, rm, rmdir, find, df, lpr, lpq, lprm, cat), but I certainly should practice it more! 
+__Linux Survival__ - definitely pumped up my knowledge on the command line (ls, cs, mkdir, kill, ps, aux) to the next level (mv, pwd, cp, rm, rmdir, find, df, lpr, lpq, lprm, cat), but I certainly should practice it more :hammer: ! 
 
 **HTTP articles** - extended my knowledge (200, 400 & POST, GET) around status codes as well as verbs. I also discovered more about https and ssl certificates. But, there is no doubt, that I should extra study in order to understand HTTP caching and authentication.  
 
@@ -51,8 +52,22 @@ The **"Learn HTML"** course from "codecademy" was another really easy-breezy tas
 
 ![intro to html and css](task_html_css_intro/css.gif)
 
-The **"Learn CSS"** course from "codecademy" was one more pretty lightweight task that I did quite quickly. Frankly speaking, there was a theme that made me refresh my knowledge and remember everything I had learned before, it was - Grid. So I should do more research and practice on this topic.
+The **"Learn CSS"** course from "codecademy" was one more pretty lightweight task that I did quite quickly. Frankly speaking, there was a theme that made me refresh my knowledge and remember everything I had learned before, it was - Grid. So I should do more research :mag: and practice on this topic.
 
 ## <a name="responsive_web_design">Responsive Web Design</a>
+
+![responsive web design fundamental](task_responsive_web_design/responsive-web_design_fundamental.jpg)
+
+The **"Responsive Web Design Fundamentals"** course from "udacity" showed me the result of interesting research :bulb: , which I will certainly use in the future :pushpin: , in particular that the average number of characters per line should be about 65, so that people do not scream. But other than that, it just refreshed my knowledge about breakpoints and @media :thumbsup:
+
+![flexbox froggy](task_responsive_web_design/frog.gif)
+
+The **"Flexbox Froggy"** is "crash course" game which help me to practice CSS Flexbox, was easy task, which I managed pretty fast.
+
+![grid garden](task_responsive_web_design/garden.gif)
+
+The **"Grid Garden"** is another "crash course" game which help me to practice CSS Grid, was one more quite easy task, even though last lvls were challenging.
+
+## <a name="tml_css_practice">HTML & CSS Practice</a>
 
 Is underway...
