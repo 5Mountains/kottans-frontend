@@ -1,19 +1,19 @@
 # Front-End Course :mortar_board: from Kottans
 
-This repository displays my progress in taking self-study part of [frontend course](https://github.com/kottans/frontend) from :octocat: [**"Kottans"**](https://kottans.org) development community.
+This repository :open_file_folder: displays my progress in taking self-study part of [frontend course](https://github.com/kottans/frontend) from :octocat: [**"Kottans"**](https://kottans.org) development community.
 
-##### tasks that have been completed:
-- [x] [Git and GitHub Intro](#git_intro) :white_check_mark:
-- [x] [Linux CLI, and HTTP](#linux_cli_http) :white_check_mark:
-- [x] [Git Collaboration](#git_collaboration) :white_check_mark:
-- [x] [Intro to HTML and CSS](#html_css_intro) :white_check_mark:
-- [x] [Responsive Web Design](#responsive_web_design) :white_check_mark:
+:pushpin: tasks that have been completed:
+- :white_check_mark: [Git and GitHub Intro](#git_intro)
+- :white_check_mark: [Linux CLI, and HTTP](#linux_cli_http)
+- :white_check_mark: [Git Collaboration](#git_collaboration)
+- :white_check_mark: [Intro to HTML and CSS](#html_css_intro)
+- :white_check_mark: [Responsive Web Design](#responsive_web_design)
 
-##### tasks that are currently being performed:
-- [ ] [HTML & CSS Practice](#html_css_practice)
+:pushpin: tasks that are currently being performed:
+- :black_square_button: [HTML & CSS Practice](#html_css_practice)
 
-##### some additional projects that I run during the course:
-- [x] [Nickname creator](https://github.com/5Mountains/nickname-creator) :white_check_mark:
+:pushpin: some additional projects that I run during the course:
+- :white_check_mark: [Nickname creator](https://github.com/5Mountains/nickname-creator)
 
 ***
 
@@ -38,6 +38,7 @@ __Linux Survival__ - definitely pumped up my knowledge on the command line (ls, 
 ![git collaboration](task_git_collaboration/github_collaboration.jpg)
 
 The **"GitHub & Collaboration"** course has certainly improved my understanding of working with forked repositories and , this knowledge will surely be useful in teamwork on the project! I also became more familiar with the CONTRIBUTING.md files.
+
 ***
 
 ## <a name="html_css_intro">Intro to HTML and CSS</a>
@@ -54,11 +55,13 @@ The **"Learn HTML"** course from "codecademy" was another really easy-breezy tas
 
 The **"Learn CSS"** course from "codecademy" was one more pretty lightweight task that I did quite quickly. Frankly speaking, there was a theme that made me refresh my knowledge and remember everything I had learned before, it was - Grid. So I should do more research :mag: and practice on this topic.
 
+***
+
 ## <a name="responsive_web_design">Responsive Web Design</a>
 
 ![responsive web design fundamental](task_responsive_web_design/responsive-web_design_fundamental.jpg)
 
-The **"Responsive Web Design Fundamentals"** course from "udacity" showed me the result of interesting research :bulb: , which I will certainly use in the future :pushpin: , in particular that the average number of characters per line should be about 65, so that people do not scream. But other than that, it just refreshed my knowledge about breakpoints and @media :thumbsup:
+The **"Responsive Web Design Fundamentals"** course from "udacity" showed me the result of interesting research :bulb: , which I will certainly use in the future :pushpin: , in particular that the average number of characters per line should be about 65, so that people do not skimming text. But other than that, it just refreshed my knowledge about breakpoints and @media :thumbsup:
 
 ![flexbox froggy](task_responsive_web_design/frog.gif)
 
@@ -67,6 +70,8 @@ The **"Flexbox Froggy"** is "crash course" game which help me to practice CSS Fl
 ![grid garden](task_responsive_web_design/garden.gif)
 
 The **"Grid Garden"** is another "crash course" game which help me to practice CSS Grid, was one more quite easy task, even though last lvls were challenging.
+
+***
 
 ## <a name="tml_css_practice">HTML & CSS Practice</a>
 
