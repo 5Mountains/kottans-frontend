@@ -8,9 +8,10 @@ This repository :open_file_folder: displays my progress in taking self-study par
 - :white_check_mark: [Git Collaboration](#git_collaboration)
 - :white_check_mark: [Intro to HTML and CSS](#html_css_intro)
 - :white_check_mark: [Responsive Web Design](#responsive_web_design)
+- :white_check_mark: [HTML & CSS Practice](#html_css_practice)
 
 :pushpin: tasks that are currently being performed:
-- :black_square_button: [HTML & CSS Practice](#html_css_practice)
+- :white_large_square: [JavaScript Basics](#javascript_basics)
 
 :pushpin: some additional projects that I run during the course:
 - :white_check_mark: [Nickname creator](https://github.com/5Mountains/nickname-creator)
@@ -73,6 +74,18 @@ The **"Grid Garden"** is another "crash course" game which help me to practice C
 
 ***
 
-## <a name="tml_css_practice">HTML & CSS Practice</a>
+## <a name="html_css_practice">HTML & CSS Practice</a>
+
+Well, HTML & CSS Practice was really awesome task in order to complete which I had to make a pop-up menu using only pure HTML and CSS, without JS or any other libraries. It was a great practice that definitely made my brain get tense.
+
+Link to code :open_file_folder: of app - [pure html/css popup](https://github.com/5Mountains/popup-kottans)
+
+Link to how the App :mag: like - [pure html/css popup](https://5mountains.github.io/popup-kottans/)
+
+![popup](https://user-images.githubusercontent.com/29441499/96369737-55ded200-1164-11eb-9035-43003fe8f50c.gif)
+
+***
+
+## <a name="javascript_basics">JavaScript Basics</a>
 
 Is underway...
