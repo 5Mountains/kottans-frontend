@@ -208,6 +208,16 @@ Well, I will be frank, **freecodecamp**  was not so simple for me as I first tho
 
 ## <a name="document_object_model">Document Object Model</a>
 
-Is underway...
+The **JavaScript and the DOM** course material from "udacity" was quite well-known to me, but I still highlighted a number of new JS features I didn't know, and took a deeper look at the call stack logic ! The new features I found were cssText; performance.now(); createDocumentFragment();  
+
+<details><summary>toggle Screenshot :clapper:</summary>
+<br>
+
+![popup](task_js_dom/udacityDOM.jpg)
+
+</details>
+<br>
+
+Completion of this section is still ongoing
 
 [:top: back to top](#top)
