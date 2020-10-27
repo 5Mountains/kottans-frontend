@@ -218,6 +218,16 @@ The **JavaScript and the DOM** course material from "udacity" was quite well-kno
 </details>
 <br>
 
+So, one more part of the algorithms from **freecodecamp** was successfully completed. Again, I had to look at the hint and Google :mag:. To be honest, building the logic of an app is not about creating pop-ups or so :)   
+
+<details><summary>toggle Screenshot :clapper:</summary>
+<br>
+
+![popup](task_js_dom/freecodecampAlgorithms.jpg)
+
+</details>
+<br>
+
 Completion of this section is still ongoing
 
 [:top: back to top](#top)
