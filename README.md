@@ -1,8 +1,8 @@
 # Front-End Course :mortar_board: from Kottans
 
-This repository :open_file_folder: displays my progress :bicyclist: in taking self-study part of [frontend course](https://github.com/kottans/frontend) from :octocat: [**"Kottans"**](https://kottans.org) development community.
-
 <a name="top"></a>
+
+This repository :open_file_folder: displays my progress :bicyclist: in taking self-study part of [frontend course](https://github.com/kottans/frontend) from :octocat: [**"Kottans"**](https://kottans.org) development community.
 
 :pushpin: tasks that have been completed:
 - :white_check_mark: [Git and GitHub Intro](#git_intro)
@@ -17,7 +17,7 @@ This repository :open_file_folder: displays my progress :bicyclist: in taking se
 :pushpin: tasks that are currently being performed:
 - :white_large_square: [Building a Tiny JS World](#tiny_js_world)
 
-:pushpin: some additional projects that I run during the course:
+:pushpin: some additional projects that I ran during the course:
 - :white_check_mark: [Nickname creator](https://github.com/5Mountains/nickname-creator)
 
 ***
@@ -32,9 +32,8 @@ This repository :open_file_folder: displays my progress :bicyclist: in taking se
 ![git and gitHub intro](https://user-images.githubusercontent.com/29441499/95737940-1cecbc00-0c91-11eb-9d58-2872280c8d4a.jpg)
 
 </details>
-<br>
 
-[:top: back to top](#top)
+:top: Back to [Top](#top)
 
 ***
 
@@ -50,9 +49,8 @@ This repository :open_file_folder: displays my progress :bicyclist: in taking se
 ![linux survival](task_linux_cli/linux_survival.gif)
 
 </details>
-</br>
 
-[:top: back to top](#top)
+:top: Back to [Top](#top)
 
 ***
 
@@ -66,9 +64,8 @@ This repository :open_file_folder: displays my progress :bicyclist: in taking se
 ![git collaboration](task_git_collaboration/github_collaboration.jpg)
 
 </details>
-</br>
 
-[:top: back to top](#top)
+:top: Back to [Top](#top)
 
 ***
 
@@ -82,8 +79,6 @@ This repository :open_file_folder: displays my progress :bicyclist: in taking se
 ![intro to html and css](task_html_css_intro/intro_html_and_css.jpg)
 
 </details>
-<br>
-
 
 :memo: The **"Learn HTML"** course from "codecademy" was another really easy-breezy task that I did very quickly, despite the fact that I bought "pro" account which allowed me to cover every topic.
 
@@ -93,8 +88,6 @@ This repository :open_file_folder: displays my progress :bicyclist: in taking se
 ![intro to html and css](task_html_css_intro/html.gif)
 
 </details>
-<br>
-
 
 The **"Learn CSS"** course from "codecademy" was one more pretty lightweight task that I did quite quickly. Frankly speaking, there was a theme that made me refresh my knowledge and remember everything I had learned before, it was - Grid. So I should do more research :mag: and practice on this topic.
 
@@ -104,10 +97,8 @@ The **"Learn CSS"** course from "codecademy" was one more pretty lightweight tas
 ![intro to html and css](task_html_css_intro/css.gif)
 
 </details>
-<br>
 
-
-[:top: back to top](#top)
+:top: Back to [Top](#top)
 
 ***
 
@@ -121,9 +112,6 @@ The **"Learn CSS"** course from "codecademy" was one more pretty lightweight tas
 ![responsive web design fundamental](task_responsive_web_design/responsive-web_design_fundamental.jpg)
 
 </details>
-<br>
-
-
 
 :memo: The **"Flexbox Froggy"** is "crash course" game which help me to practice CSS Flexbox, was easy task, which I managed pretty fast.
 
@@ -133,8 +121,6 @@ The **"Learn CSS"** course from "codecademy" was one more pretty lightweight tas
 ![flexbox froggy](task_responsive_web_design/frog.gif)
 
 </details>
-<br>
-
 
 :memo: The **"Grid Garden"** is another "crash course" game which help me to practice CSS Grid, was one more quite easy task, even though last lvls were challenging.
 
@@ -144,9 +130,8 @@ The **"Learn CSS"** course from "codecademy" was one more pretty lightweight tas
 ![grid garden](task_responsive_web_design/garden.gif)
 
 </details>
-<br>
 
-[:top: back to top](#top)
+:top: Back to [Top](#top)
 
 ***
 
@@ -154,19 +139,18 @@ The **"Learn CSS"** course from "codecademy" was one more pretty lightweight tas
 
 :memo: Well, **HTML & CSS Practice** was really awesome task in order to complete which I had to make a pop-up menu using only **pure HTML and CSS**, without JS or any other libraries. It was a great practice that definitely made my brain get tense.
 
-Link to code :open_file_folder: of app - [pure html/css popup](https://github.com/5Mountains/popup-kottans)
-
-Link to how the App :mag: like - [pure html/css popup](https://5mountains.github.io/popup-kottans/)
-
 <details><summary>toggle Screenshot :clapper:</summary>
 <br>
 
 ![popup](https://user-images.githubusercontent.com/29441499/96369737-55ded200-1164-11eb-9035-43003fe8f50c.gif)
 
 </details>
-<br>
 
-[:top: back to top](#top)
+Link to code :open_file_folder: of app - [pure html/css popup](https://github.com/5Mountains/popup-kottans)
+
+Link to how the App :mag: like - [pure html/css popup](https://5mountains.github.io/popup-kottans/)
+
+:top: Back to [Top](#top)
 
 ***
 
@@ -174,14 +158,12 @@ Link to how the App :mag: like - [pure html/css popup](https://5mountains.github
 
 :memo: The **Intro to JavaScript** course from "udacity" wasn't something new to me, but nevertheless it gave me the possibility to recall and repeat the fundamental knowledge of JS such as data types & variables, conditionals, loops, functions, arrays and objects as well.
 
-
 <details><summary>toggle Screenshot :clapper:</summary>
 <br>
 
 ![popup](task_js_basics/udacityjs.jpg)
 
 </details>
-<br>
 
 :memo: Well, I will be frank, **freecodecamp**  was not so simple for me as I first thought, its passage took me a couple of days. I had to look at the hint and google in order to come up with the idea of solving problems (especially in the algorithms challenges). There are also several new topics for me, such as recursion or currying, for which I really should do more research and practice in future!
 
@@ -191,7 +173,6 @@ Link to how the App :mag: like - [pure html/css popup](https://5mountains.github
 ![popup](task_js_basics/freecodecampjs.jpg)
 
 </details>
-<br>
 
 :exclamation::exclamation: While passing one of the challenges, I even managed to find **a bug** :beetle: in the description of the test suites of the task. After that I successfully opened new [issue](https://github.com/freeCodeCamp/freeCodeCamp/issues/40067) in the project repository, and I believe that fixing this bug will improve understanding :point_up: of the task.
 
@@ -201,9 +182,8 @@ Link to how the App :mag: like - [pure html/css popup](https://5mountains.github
 ![test](https://user-images.githubusercontent.com/29441499/96900881-4250a580-149b-11eb-8be2-daddaa4787eb.gif)
 
 </details>
-<br>
 
-[:top: back to top](#top)
+:top: Back to [Top](#top)
 
 ***
 
@@ -217,7 +197,6 @@ Link to how the App :mag: like - [pure html/css popup](https://5mountains.github
 ![popup](task_js_dom/udacityDOM.jpg)
 
 </details>
-<br>
 
 :memo: So, one more part of the algorithms from **freecodecamp** was successfully completed. Again, I had to look at the hint and Google :mag:. To be honest, building the logic of an app is not about creating pop-ups or so :)   
 
@@ -227,7 +206,6 @@ Link to how the App :mag: like - [pure html/css popup](https://5mountains.github
 ![popup](task_js_dom/freecodecampAlgorithms.jpg)
 
 </details>
-<br>
 
 :memo: Well, I wouldn't say that **DOM API**  was a difficult task until I started optimizing :twisted_rightwards_arrows: and improving :repeat_one: the code following mentors' recommendations. I think it really gave me a proper understanding of the approach to write ⌨️ eligible code, gratitude a lot! :handshake:
 
@@ -237,16 +215,17 @@ Link to how the App :mag: like - [pure html/css popup](https://5mountains.github
 ![popup](task_js_dom/pancakes.gif)
 
 </details>
-<br>
 
 Link to code :open_file_folder: of app - [DOM API task](https://github.com/5Mountains/dom-api-task)
 
 Link to how the App :mag: like - [DOM API task](https://5mountains.github.io/dom-api-task/)
 
-[:top: back to top](#top)
+:top: Back to [Top](#top)
 
-## <a name="tine_js_world">Building a Tiny JS World</a>
+***
+
+## <a name="tiny_js_world">Building a Tiny JS World</a>
 
 Completion of this section is ongoing...
 
-[:top: back to top](#top)
+:top: Back to [Top](#top)
