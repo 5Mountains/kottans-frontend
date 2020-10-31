@@ -1,23 +1,32 @@
 # Front-End Course :mortar_board: from Kottans
 
+This repository :open_file_folder: displays my progress :bicyclist: in taking **self-study** part of 📚 [**frontend course**](https://github.com/kottans/frontend)  from :octocat: [**"Kottans"**](https://kottans.org) development community. Following tasks :pencil: should be completed :heavy_check_mark: in order to join main course. 
+
 <a name="top"></a>
 
-This repository :open_file_folder: displays my progress :bicyclist: in taking self-study part of [frontend course](https://github.com/kottans/frontend) from :octocat: [**"Kottans"**](https://kottans.org) development community.
+### :pushpin:General:
+- :white_check_mark: [Git and GitHub Intro](#git_intro),
+- :white_check_mark: [Linux CLI, and HTTP](#linux_cli_http),
+- :white_check_mark: [Git Collaboration](#git_collaboration);
 
-:pushpin: tasks that have been completed:
-- :white_check_mark: [Git and GitHub Intro](#git_intro)
-- :white_check_mark: [Linux CLI, and HTTP](#linux_cli_http)
-- :white_check_mark: [Git Collaboration](#git_collaboration)
-- :white_check_mark: [Intro to HTML and CSS](#html_css_intro)
-- :white_check_mark: [Responsive Web Design](#responsive_web_design)
-- :white_check_mark: [HTML & CSS Practice](#html_css_practice)
-- :white_check_mark: [JavaScript Basics](#javascript_basics)
-- :white_check_mark: [Document Object Model](#document_object_model)
+### :pushpin:Front-End Basics:
+- :white_check_mark: [Intro to HTML and CSS](#html_css_intro),
+- :white_check_mark: [Responsive Web Design](#responsive_web_design),
+- :white_check_mark: [HTML & CSS Practice](#html_css_practice),
+- :white_check_mark: [JavaScript Basics](#javascript_basics),
+- :white_check_mark: [Document Object Model](#document_object_model);
 
-:pushpin: tasks that are currently being performed:
-- :white_large_square: [Building a Tiny JS World](#tiny_js_world)
+### :pushpin:Advanced Topics:
+- :dart:  [Building a Tiny JS World](#tiny_js_world),
+- :white_large_square: Object-Oriented JavaScript,
+- :white_large_square: OOP exercise,
+- :white_large_square: Offline Web Applications,
+- :white_large_square: Memory – Pair Game,
+- :white_large_square: Website Performance Optimization,
+- :white_large_square: Friends App;
 
-:pushpin: some additional projects that I ran during the course:
+
+:paperclip: Some additional projects, extra tasks or optional content that I have covered running the course::
 - :white_check_mark: [Nickname creator](https://github.com/5Mountains/nickname-creator)
 
 ***
@@ -89,7 +98,7 @@ This repository :open_file_folder: displays my progress :bicyclist: in taking se
 
 </details>
 
-The **"Learn CSS"** course from "codecademy" was one more pretty lightweight task that I did quite quickly. Frankly speaking, there was a theme that made me refresh my knowledge and remember everything I had learned before, it was - Grid. So I should do more research :mag: and practice on this topic.
+:memo: The **"Learn CSS"** course from "codecademy" was one more pretty lightweight task that I did quite quickly. Frankly speaking, there was a theme that made me refresh my knowledge and remember everything I had learned before, it was - Grid. So I should do more research :mag: and practice on this topic.
 
 <details><summary>toggle Screenshot :clapper:</summary>
 <br>
@@ -146,9 +155,9 @@ The **"Learn CSS"** course from "codecademy" was one more pretty lightweight tas
 
 </details>
 
-Link to code :open_file_folder: of app - [pure html/css popup](https://github.com/5Mountains/popup-kottans)
+:link: to code :open_file_folder: of app - [pure html/css popup](https://github.com/5Mountains/popup-kottans)
 
-Link to how the App :mag: like - [pure html/css popup](https://5mountains.github.io/popup-kottans/)
+:link: to how the App :mag: like - [pure html/css popup](https://5mountains.github.io/popup-kottans/)
 
 :top: Back to [Top](#top)
 
@@ -216,9 +225,9 @@ Link to how the App :mag: like - [pure html/css popup](https://5mountains.github
 
 </details>
 
-Link to code :open_file_folder: of app - [DOM API task](https://github.com/5Mountains/dom-api-task)
+:link: to code :open_file_folder: of app - [DOM API task](https://github.com/5Mountains/dom-api-task)
 
-Link to how the App :mag: like - [DOM API task](https://5mountains.github.io/dom-api-task/)
+:link: to how the App :mag: like - [DOM API task](https://5mountains.github.io/dom-api-task/)
 
 :top: Back to [Top](#top)
 
