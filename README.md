@@ -294,7 +294,7 @@ arr.map(el => print(someFunc(el), 'div'));
 
 </details>
 
-:link: to :open_file_folder: with `code.js` - [a Tiny JS World](https://github.com/5Mountains/a_tiny_js_world)
+:link: to :open_file_folder: with `index.js` - [a Tiny JS World](a_tiny_js_world/index.js)
 
 :link: to how output :mag: like - [a Tiny JS World](https://5mountains.github.io/a-tiny-JS-world/)
 
