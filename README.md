@@ -1,8 +1,10 @@
 # Front-End Course :mortar_board: from Kottans
 
-This repository :open_file_folder: displays my progress :bicyclist: in taking **self-study** part of 📚 [**frontend course**](https://github.com/kottans/frontend)  from :octocat: [**"Kottans"**](https://kottans.org) development community. Following tasks :pencil: should be completed :heavy_check_mark: in order to join main course. 
+This repository :open_file_folder: displays my progress :bicyclist: in taking **self-study** part of [**frontend course**](https://github.com/kottans/frontend) from :octocat: [**"Kottans"**](https://kottans.org) development community. 
 
 <a name="top"></a>
+
+Following :arrow_heading_down: tasks should be completed :heavy_check_mark: in order to join main course. 
 
 ### :pushpin:General:
 - :white_check_mark: [Git and GitHub Intro](#git_intro),
@@ -17,8 +19,8 @@ This repository :open_file_folder: displays my progress :bicyclist: in taking **
 - :white_check_mark: [Document Object Model](#document_object_model);
 
 ### :pushpin:Advanced Topics:
-- :dart:  [Building a Tiny JS World](#tiny_js_world),
-- :white_large_square: Object-Oriented JavaScript,
+- :white_check_mark: [Building a Tiny JS World](#tiny_js_world),
+- :dart: [Object-Oriented JavaScript](#object_oriented_javascript),
 - :white_large_square: OOP exercise,
 - :white_large_square: Offline Web Applications,
 - :white_large_square: Memory – Pair Game,
@@ -26,7 +28,7 @@ This repository :open_file_folder: displays my progress :bicyclist: in taking **
 - :white_large_square: Friends App;
 
 
-:paperclip: Some additional projects, extra tasks or optional content that I have covered running the course::
+:paperclip: Some additional projects, extra tasks or optional content that I have covered running this course:
 - :white_check_mark: [Nickname creator](https://github.com/5Mountains/nickname-creator)
 
 ***
@@ -234,6 +236,73 @@ This repository :open_file_folder: displays my progress :bicyclist: in taking **
 ***
 
 ## <a name="tiny_js_world">Building a Tiny JS World</a>
+
+📝 When I was performing this task, I have faced up with several approaches that I could use to handle this project. For instance: 
+```
+const a = {a:a, b:b}, 
+      b = {a:a, b:b}, 
+      c = {a:a, b:b};
+```
+```
+const arr = [a, b, c];
+for(let el of arr) {
+    let smth = `bla ${el.a}, bla ${el.b} bla, ${el.c} bla`;
+    print(smth, 'div');
+} 
+```
+```
+cosnt arr = [a, b, c];
+const someFunc = () => {
+    let smth = '';
+        for(let el of arr) {
+            smth += `bla ${el.a}, bla ${el.b} bla, ${el.c} bla`;
+        } 
+    return smth;
+};
+const anotherFunc = () => {
+    print(someFunc(), 'div'));
+}
+anotherFunc();
+```
+```
+cosnt arr = new Array(a, b, c);
+const someFunc = (el) => {
+    return `bla ${el.a}, bla ${el.b} bla, ${el.c} bla`;
+};
+arr.forEach(el => print(someFunc(el), 'div'));
+```
+```
+const someFunc = (el) => {
+    return bla ${el.a}, bla ${el.b} bla, ${el.c} bla`;
+};
+Array.from([a, b, c], el => print(someFunc(el), 'div'));
+```
+```
+cosnt arr = [a, b, c];
+const someFunc = (el) => {
+    return `bla ${el.a}, bla ${el.b} bla, ${el.c} bla`;
+};
+arr.map(el => print(someFunc(el), 'div'));
+```
+📝 Sure, there are also other tools to perform this assignment, which are faster, shorter, and so on, but my final solving was the last one on this list :arrow_heading_up:. I enjoy programming cause it's a sort of artistic  creativity :art:, and I like that there is no only :heavy_exclamation_mark:**ONE** solution, so you can be really flexible and versatile, unless, of course, there are strict documentation or some specific company approaches!
+**p.s.** the main idea of this project`s solutions is that you aren't familiar with OPP approaches...
+
+<details><summary>toggle Screenshot :clapper:</summary>
+<br>
+
+![popup](a_tiny_js_world/a_tiny_js_world.jpg)
+
+</details>
+
+:link: to :open_file_folder: with `code.js` - [a Tiny JS World](https://github.com/5Mountains/a_tiny_js_world)
+
+:link: to how output :mag: like - [a Tiny JS World](https://5mountains.github.io/a-tiny-JS-world/)
+
+:top: Back to [Top](#top)
+
+***
+
+## <a name="object_oriented_javascript">Object-Oriented JavaScript</a>
 
 Completion of this section is ongoing...
 
