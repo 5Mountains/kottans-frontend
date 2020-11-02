@@ -285,6 +285,7 @@ const someFunc = (el) => {
 arr.map(el => print(someFunc(el), 'div'));
 ```
 📝 Sure, there are also other tools to perform this assignment, which are faster, shorter, and so on, but my final solving was the last one on this list :arrow_heading_up:. I enjoy programming cause it's a sort of artistic  creativity :art:, and I like that there is no only :heavy_exclamation_mark:**ONE** solution, so you can be really flexible and versatile, unless, of course, there are strict documentation or some specific company approaches!
+
 **p.s.** the main idea of this project`s solutions is that you aren't familiar with OPP approaches...
 
 <details><summary>toggle Screenshot :clapper:</summary>
@@ -304,6 +305,17 @@ arr.map(el => print(someFunc(el), 'div'));
 
 ## <a name="object_oriented_javascript">Object-Oriented JavaScript</a>
 
-Completion of this section is ongoing...
+:memo: Well, the materials of the **Object-Oriented JavaScript** course (version of 2015) from "udacity", I have to say, were a bit complicated for me :confused:. In my opinion, the examples were quite poor, and and I really didn't catch the point of all the stuff. **IMHO** - If you really came to this course without previous OOP familiarity, knowledge obtained in this course to complete the last task (frogger arcade game) - won't be enough :expressionless:. 
+
+But in general, I used to try various programming approaches such as  functions, prototypal and pseudo-classes. Also, different method like `extend()` that does  one-time property copying  and `Object.create()` which makes ongoing look-up deligation and other.
+
+<details><summary>toggle Screenshot :clapper:</summary>
+<br>
+
+![popup](task_js_oop/Object-Oriented-JS-2015.gif)
+
+</details>
+
+Full completion of this section is ongoing...
 
 :top: Back to [Top](#top)
