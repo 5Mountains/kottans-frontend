@@ -305,9 +305,7 @@ arr.map(el => print(someFunc(el), 'div'));
 
 ## <a name="object_oriented_javascript">Object-Oriented JavaScript</a>
 
-:memo: Well, the materials of the **Object-Oriented JavaScript** course (version of 2015) from "udacity", I have to say, were a bit complicated for me :confused:. In my opinion, the examples were quite poor, and and I really didn't catch the point of all the stuff. **IMHO** - If you really came to this course without previous OOP familiarity, knowledge obtained in this course to complete the last task (frogger arcade game) - won't be enough :expressionless:. 
-
-But in general, I used to try various programming approaches such as  functions, prototypal and pseudo-classes. Also, different method like `extend()` that does  one-time property copying  and `Object.create()` which makes ongoing look-up deligation and other.
+:memo: Well, the materials of the **Object-Oriented JavaScript** course ([old version](https://classroom.udacity.com/courses/ud015)) from "udacity", I have to say, were a bit complicated for me :confused:. In my opinion, the examples were quite poor, and and I really didn't catch the point of all the stuff. **IMHO** - If you really came to this course without previous OOP familiarity, knowledge obtained in this course to complete the last task (frogger arcade game) - won't be enough :expressionless:. 
 
 <details><summary>toggle Screenshot :clapper:</summary>
 <br>
@@ -315,6 +313,17 @@ But in general, I used to try various programming approaches such as  functions,
 ![popup](task_js_oop/Object-Oriented-JS-2015.gif)
 
 </details>
+
+:memo: I discovered :flashlight: a similar and I would even say updated version of this course :arrow_heading_up:, so I decided to go through it also! The materials of this  **Object-Oriented JavaScript** course ([new version](https://classroom.udacity.com/courses/ud711)) from "udacity", were much easier to follow, compared to the old version! From my perspective, the explanations were much better and clearer, which made it possible for me to understand more :point_up:!
+
+<details><summary>toggle Screenshot :clapper:</summary>
+<br>
+
+![popup](task_js_oop/Object-Oriented-JS-2018.jpg)
+
+</details>
+
+Anyway, through these courses, I have renewed my knowledge about scope, private scope, closures and so on. I also studied the various methods, such as `Object.create()`, `.call()`, `.bind()`, `.hasOwnProperty()`, `.isPrototypesOf()`, `.getPrototypesOf()`, `.Object.assign()` and the most curiosity became for me - **IIFE** `(function(){statements})();`
 
 Full completion of this section is ongoing...
 
