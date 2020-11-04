@@ -21,8 +21,8 @@ Following :arrow_heading_down: tasks should be completed :heavy_check_mark: in o
 ### :pushpin:Advanced Topics:
 - :white_check_mark: [Building a Tiny JS World](#tiny_js_world),
 - :dart: [Object-Oriented JavaScript](#object_oriented_javascript),
-- :white_large_square: OOP exercise,
-- :white_large_square: Offline Web Applications,
+- :dart: [JavaScript OOP exercise](#javascript_oop_exercise),
+- :white_large_square:Offline Web Applications,
 - :white_large_square: Memory – Pair Game,
 - :white_large_square: Website Performance Optimization,
 - :white_large_square: Friends App;
@@ -297,8 +297,6 @@ arr.map(el => print(someFunc(el), 'div'));
 
 :link: to :open_file_folder: with `index.js` - [a Tiny JS World](a_tiny_js_world/index.js)
 
-:link: to how output :mag: like - [a Tiny JS World](https://5mountains.github.io/a-tiny-JS-world/)
-
 :top: Back to [Top](#top)
 
 ***
@@ -325,6 +323,35 @@ arr.map(el => print(someFunc(el), 'div'));
 
 Anyway, through these courses, I have renewed my knowledge about scope, private scope, closures and so on. I also studied the various methods, such as `Object.create()`, `.call()`, `.bind()`, `.hasOwnProperty()`, `.isPrototypesOf()`, `.getPrototypesOf()`, `.Object.assign()` and the most curiosity became for me - **IIFE** `(function(){statements})();`
 
-Full completion of this section is ongoing...
+:arrow_heading_down: My version  of the frogger arcade game! 
+<details><summary>toggle Screenshot :clapper:</summary>
+<br>
+
+![popup](task_js_oop/frogger.gif)
+
+</details>
+
+:link: to :open_file_folder: with `index.js` - [Frogger game](https://github.com/5Mountains/frontend-nanodegree-arcade-game/blob/master/js/app.js)
+
+:link: to how output :mag: like - [Frogger game](https://5mountains.github.io/frontend-nanodegree-arcade-game/)
+
+:memo:One more part of tasks related to algorithms and logic :arrow_heading_down:, I believe that knowledge gained in their solution will be very useful in the future!
+
+<details><summary>toggle Screenshot :clapper:</summary>
+<br>
+
+![popup](task_js_oop/codewars.jpg)
+
+</details>
+
+:heavy_exclamation_mark: The final completion and task verification of this section is ongoing...
+
+:top: Back to [Top](#top)
+
+***
+
+## <a name="javascript_oop_exercise">JavaScript OOP exercise</a>
+
+:heavy_exclamation_mark: The task completion of this section is ongoing...
 
 :top: Back to [Top](#top)
