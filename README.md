@@ -20,9 +20,9 @@ Following :arrow_heading_down: tasks should be completed :heavy_check_mark: in o
 
 ### :pushpin:Advanced Topics:
 - :white_check_mark: [Building a Tiny JS World](#tiny_js_world),
-- :dart: [Object-Oriented JavaScript](#object_oriented_javascript),
+- :white_check_mark: [Object-Oriented JavaScript](#object_oriented_javascript),
 - :dart: [JavaScript OOP exercise](#javascript_oop_exercise),
-- :white_large_square:Offline Web Applications,
+- :dart: [Offline Web Applications](#offline_web_applications),
 - :white_large_square: Memory – Pair Game,
 - :white_large_square: Website Performance Optimization,
 - :white_large_square: Friends App;
@@ -323,7 +323,7 @@ arr.map(el => print(someFunc(el), 'div'));
 
 Anyway, through these courses, I have renewed my knowledge about scope, private scope, closures and so on. I also studied the various methods, such as `Object.create()`, `.call()`, `.bind()`, `.hasOwnProperty()`, `.isPrototypesOf()`, `.getPrototypesOf()`, `.Object.assign()` and the most curiosity became for me - **IIFE** `(function(){statements})();`
 
-:arrow_heading_down: My version  of the frogger arcade game! 
+:arrow_heading_down: My version of the frogger arcade game! 
 <details><summary>toggle Screenshot :clapper:</summary>
 <br>
 
@@ -344,13 +344,32 @@ Anyway, through these courses, I have renewed my knowledge about scope, private 
 
 </details>
 
+:top: Back to [Top](#top)
+
+***
+
+## <a name="javascript_oop_exercise">JavaScript OOP exercise</a>
+
+:memo: During accomplishing this task, I was able to put into practice the gained knowledge about object-oriented JavaScript.
+
+<details><summary>toggle Screenshot :clapper:</summary>
+<br>
+
+![popup](task_js_oop_exercise/a_tiny_js_world.jpg)
+
+</details>
+
+:link: to :open_file_folder: with `index.js` - [a Tiny JS World](https://github.com/5Mountains/a-tiny-JS-world/blob/master/index.js)
+
+:link: to how output :mag: like - [a Tiny JS World](https://5mountains.github.io/a-tiny-JS-world/)
+
 :heavy_exclamation_mark: The final completion and task verification of this section is ongoing...
 
 :top: Back to [Top](#top)
 
 ***
 
-## <a name="javascript_oop_exercise">JavaScript OOP exercise</a>
+## <a name="offline_web_applications">Offline Web Applications</a>
 
 :heavy_exclamation_mark: The task completion of this section is ongoing...
 
