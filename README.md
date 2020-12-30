@@ -1,10 +1,10 @@
 # Front-End Course :mortar_board: from Kottans
 
-This repository :open_file_folder: displays my progress :bicyclist: in taking **self-study** part of [**frontend course**](https://github.com/kottans/frontend) from :octocat: [**"Kottans"**](https://kottans.org) development community. 
+This repository :open_file_folder: displays my progress :bicyclist: in taking **self-study** part of 📚 [**frontend course**](https://github.com/kottans/frontend) from :octocat: [**"Kottans"**](https://kottans.org) development community. 
 
 <a name="top"></a>
 
-Following :arrow_heading_down: tasks should be completed :heavy_check_mark: in order to join main course. 
+Following :arrow_heading_down: tasks should be completed :heavy_check_mark: in order to join main course 🐱‍💻. 
 
 ### :pushpin:General:
 - :white_check_mark: [Git and GitHub Intro](#git_intro),
@@ -21,9 +21,9 @@ Following :arrow_heading_down: tasks should be completed :heavy_check_mark: in o
 ### :pushpin:Advanced Topics:
 - :white_check_mark: [Building a Tiny JS World](#tiny_js_world),
 - :white_check_mark: [Object-Oriented JavaScript](#object_oriented_javascript),
-- :dart: [JavaScript OOP exercise](#javascript_oop_exercise),
+- :white_check_mark: [JavaScript OOP exercise](#javascript_oop_exercise),
 - :dart: [Offline Web Applications](#offline_web_applications),
-- :white_large_square: Memory – Pair Game,
+- :dart: [Memory - Pair game](#memory_pair_game),
 - :white_large_square: Website Performance Optimization,
 - :white_large_square: Friends App;
 
@@ -363,13 +363,19 @@ Anyway, through these courses, I have renewed my knowledge about scope, private 
 
 :link: to how output :mag: like - [a Tiny JS World](https://5mountains.github.io/a-tiny-JS-world/)
 
-:heavy_exclamation_mark: The final completion and task verification of this section is ongoing...
-
 :top: Back to [Top](#top)
 
 ***
 
 ## <a name="offline_web_applications">Offline Web Applications</a>
+
+:heavy_exclamation_mark: The task completion of this section is ongoing...
+
+:top: Back to [Top](#top)
+
+***
+
+## <a name="memory_pair_game">Memory – Pair Game</a>
 
 :heavy_exclamation_mark: The task completion of this section is ongoing...
 
